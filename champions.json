@@ -1,0 +1,796 @@
+{
+    "aatrox": [
+        "rx",
+        "tx",
+        "ox"
+    ],
+    "ahri": [
+        "ahri"
+    ],
+    "akali": [
+        "aal",
+        "akl"
+    ],
+    "alistar": [
+        "alsr",
+        "asar",
+        "alir",
+        "istr",
+        "aiar",
+        "lstr",
+        "aitr",
+        "star",
+        "ltar",
+        "altr",
+        "itar"
+    ],
+    "amumu": [
+        "muu",
+        "mum",
+        "umu"
+    ],
+    "anivia": [
+        "nva",
+        "iva",
+        "nii",
+        "nvi"
+    ],
+    "annie": [
+        "nni"
+    ],
+    "ashe": [
+        "ash"
+    ],
+    "aurelion sol": [
+        "oo",
+        " l",
+        "sl",
+        "u ",
+        "o "
+    ],
+    "azir": [
+        "zir"
+    ],
+    "bard": [
+        "ard"
+    ],
+    "blitzcrank": [
+        "tz",
+        "bt",
+        "bz",
+        "bi",
+        "zk",
+        "bk"
+    ],
+    "brand": [
+        "rad",
+        "bnd"
+    ],
+    "braum": [
+        "bm",
+        "bu"
+    ],
+    "caitlyn": [
+        "cy"
+    ],
+    "camille": [
+        "cll",
+        "aml",
+        "mil",
+        "cle",
+        "cmi",
+        "mll",
+        "lle",
+        "cme",
+        "cml"
+    ],
+    "cassiopeia": [
+        "sp",
+        "ip",
+        "cp"
+    ],
+    "cho'gath": [
+        "gh",
+        "cg",
+        "'g",
+        "'h",
+        "oh",
+        "'t",
+        "c'"
+    ],
+    "corki": [
+        "cki",
+        "cok",
+        "cor"
+    ],
+    "darius": [
+        "dus",
+        "dri",
+        "dau",
+        "riu",
+        "drs",
+        "diu"
+    ],
+    "diana": [
+        "dna",
+        "daa",
+        "dia"
+    ],
+    "dr. mundo": [
+        "."
+    ],
+    "draven": [
+        "dv"
+    ],
+    "ekko": [
+        "kk"
+    ],
+    "elise": [
+        "ele",
+        "lse"
+    ],
+    "evelynn": [
+        "ev"
+    ],
+    "ezreal": [
+        "eze",
+        "ral",
+        "zel",
+        "ezr",
+        "zal",
+        "eza",
+        "zrl",
+        "erl",
+        "eal",
+        "ezl",
+        "eea",
+        "zre"
+    ],
+    "fiddlesticks": [
+        "fd",
+        "fc",
+        "fk",
+        "fl",
+        "fs",
+        "dc"
+    ],
+    "fiora": [
+        "fia",
+        "foa",
+        "fio",
+        "fra",
+        "fir"
+    ],
+    "fizz": [
+        "zz",
+        "fz"
+    ],
+    "galio": [
+        "gi"
+    ],
+    "gangplank": [
+        "np",
+        "pl",
+        "pk",
+        "gk",
+        "gp"
+    ],
+    "garen": [
+        "grn",
+        "gen"
+    ],
+    "gnar": [
+        "gnr"
+    ],
+    "gragas": [
+        "rag",
+        "rgs",
+        "grg",
+        "ags",
+        "aas"
+    ],
+    "graves": [
+        "gv"
+    ],
+    "hecarim": [
+        "hea",
+        "car",
+        "eam",
+        "hrm",
+        "cim",
+        "rim",
+        "ecm",
+        "hci",
+        "ecr",
+        "erm",
+        "eca",
+        "hca",
+        "crm",
+        "hcm",
+        "hcr",
+        "eci",
+        "ham"
+    ],
+    "heimerdinger": [
+        "hd",
+        "dg"
+    ],
+    "illaoi": [
+        "lao",
+        "ilo",
+        "llo",
+        "loi",
+        "lli",
+        "iai"
+    ],
+    "irelia": [
+        "rla",
+        "irl",
+        "iel"
+    ],
+    "ivern": [
+        "vrn"
+    ],
+    "janna": [
+        "jnn",
+        "jna"
+    ],
+    "jarvan iv": [
+        "vv",
+        "j ",
+        "v ",
+        "jr",
+        " v",
+        "jv"
+    ],
+    "jax": [
+        "jax"
+    ],
+    "jayce": [
+        "je",
+        "jc",
+        "jy"
+    ],
+    "jhin": [
+        "jh"
+    ],
+    "jinx": [
+        "nx"
+    ],
+    "kalista": [
+        "kls",
+        "kit",
+        "kst",
+        "kla",
+        "klt"
+    ],
+    "karma": [
+        "rma",
+        "ama",
+        "kam",
+        "krm"
+    ],
+    "karthus": [
+        "ku",
+        "hu"
+    ],
+    "kassadin": [
+        "sdn",
+        "kss",
+        "aad",
+        "kdn",
+        "ksn",
+        "sdi",
+        "adn",
+        "asd",
+        "kdi",
+        "ksd",
+        "kad",
+        "asn"
+    ],
+    "katarina": [
+        "kti",
+        "kna",
+        "kri"
+    ],
+    "kayle": [
+        "ky",
+        "yl"
+    ],
+    "kennen": [
+        "nnn",
+        "knn",
+        "kee"
+    ],
+    "kha'zix": [
+        "'x",
+        "a'",
+        "zx",
+        "hx",
+        "kx",
+        "hz"
+    ],
+    "kindred": [
+        "knd",
+        "red",
+        "ded",
+        "ndd",
+        "krd",
+        "nrd",
+        "kde",
+        "kdd",
+        "kid",
+        "kdr"
+    ],
+    "kled": [
+        "led",
+        "kld"
+    ],
+    "kog'maw": [
+        "mw",
+        "g'",
+        "ow",
+        "gw",
+        "om",
+        "kw",
+        "gm",
+        "'m",
+        "'w"
+    ],
+    "leblanc": [
+        "eb"
+    ],
+    "lee sin": [
+        "ees",
+        "l n",
+        "l i",
+        "esn",
+        "le ",
+        " sn",
+        "ee ",
+        "e n",
+        " si",
+        " in"
+    ],
+    "leona": [
+        "leo",
+        "eoa",
+        "loa"
+    ],
+    "lissandra": [
+        "iad",
+        "lnd",
+        "lsd",
+        "ada",
+        "lid",
+        "lda",
+        "lnr"
+    ],
+    "lucian": [
+        "uc"
+    ],
+    "lulu": [
+        "luu",
+        "llu",
+        "lul"
+    ],
+    "lux": [
+        "ux",
+        "lx"
+    ],
+    "malphite": [
+        "mp",
+        "lp"
+    ],
+    "malzahar": [
+        "mz"
+    ],
+    "maokai": [
+        "mak",
+        "aok",
+        "mao"
+    ],
+    "master yi": [
+        " y",
+        "my"
+    ],
+    "miss fortune": [
+        "mf",
+        " r",
+        "fn",
+        "fu"
+    ],
+    "mordekaiser": [
+        "od"
+    ],
+    "morgana": [
+        "mna",
+        "mga",
+        "man",
+        "mog",
+        "mgn",
+        "org",
+        "ogn",
+        "rgn"
+    ],
+    "nami": [
+        "nmi"
+    ],
+    "nasus": [
+        "nss",
+        "sus",
+        "nsu"
+    ],
+    "nautilus": [
+        "nis",
+        "alu",
+        "nut",
+        "uts",
+        "tlu",
+        "utu",
+        "ntl",
+        "niu",
+        "nlu",
+        "utl",
+        "lus",
+        "nat",
+        "uus",
+        "nls",
+        "aut",
+        "til",
+        "tiu",
+        "nts",
+        "nui",
+        "nti",
+        "ilu",
+        "tls",
+        "uiu",
+        "nul",
+        "uti"
+    ],
+    "nidalee": [
+        "ial",
+        "nid",
+        "dal"
+    ],
+    "nocturne": [
+        "cu"
+    ],
+    "nunu": [
+        "unu",
+        "nnu"
+    ],
+    "olaf": [
+        "of",
+        "af",
+        "lf"
+    ],
+    "orianna": [
+        "onn",
+        "oin"
+    ],
+    "pantheon": [
+        "tho",
+        "peo",
+        "phn",
+        "pao",
+        "ptn",
+        "pnt",
+        "pon",
+        "aho",
+        "pnh",
+        "pne",
+        "pth",
+        "pto",
+        "heo",
+        "pat",
+        "nhn",
+        "pnn",
+        "hon",
+        "pah",
+        "pen",
+        "pno",
+        "pae",
+        "pho",
+        "ant",
+        "nhe",
+        "nth"
+    ],
+    "poppy": [
+        "pp",
+        "oy",
+        "py"
+    ],
+    "quinn": [
+        "q"
+    ],
+    "rammus": [
+        "mms",
+        "ams",
+        "rms",
+        "rmm",
+        "mus"
+    ],
+    "rek'sai": [
+        "r'",
+        "'s"
+    ],
+    "renekton": [
+        "rnt",
+        "nkn",
+        "ekn",
+        "nko",
+        "etn",
+        "enk",
+        "net",
+        "eet",
+        "rkt",
+        "eto",
+        "ret",
+        "rko",
+        "rkn",
+        "ent",
+        "nek",
+        "eek",
+        "rto",
+        "ekt",
+        "nkt"
+    ],
+    "rengar": [
+        "reg"
+    ],
+    "riven": [
+        "rien",
+        "rivn",
+        "rive"
+    ],
+    "rumble": [
+        "ub",
+        "mb",
+        "rb"
+    ],
+    "ryze": [
+        "yz",
+        "rz"
+    ],
+    "sejuani": [
+        "sj",
+        "ju",
+        "eu",
+        "ej"
+    ],
+    "shaco": [
+        "sco",
+        "hac",
+        "sac",
+        "aco",
+        "sho",
+        "shc",
+        "sao",
+        "hco"
+    ],
+    "shen": [
+        "shen"
+    ],
+    "shyvana": [
+        "yv",
+        "hy",
+        "hv"
+    ],
+    "singed": [
+        "gd",
+        "sg"
+    ],
+    "sion": [
+        "sion"
+    ],
+    "sivir": [
+        "sir",
+        "svr",
+        "siv",
+        "svi"
+    ],
+    "skarner": [
+        "ske",
+        "skr",
+        "srr",
+        "skn",
+        "krr",
+        "arr"
+    ],
+    "sona": [
+        "sona"
+    ],
+    "soraka": [
+        "srk",
+        "oak",
+        "sok",
+        "sak"
+    ],
+    "swain": [
+        "sw"
+    ],
+    "syndra": [
+        "syr",
+        "syd"
+    ],
+    "tahm kench": [
+        "h ",
+        " k",
+        " c",
+        "hk",
+        "kc",
+        "mc"
+    ],
+    "taliyah": [
+        "yh"
+    ],
+    "talon": [
+        "tao",
+        "tlo"
+    ],
+    "taric": [
+        "trc"
+    ],
+    "teemo": [
+        "eem",
+        "emo",
+        "tem",
+        "tmo"
+    ],
+    "thresh": [
+        "hsh",
+        "hes",
+        "tes",
+        "esh",
+        "reh",
+        "hrh",
+        "trh",
+        "thr",
+        "hrs",
+        "tsh",
+        "rsh"
+    ],
+    "tristana": [
+        "ttn",
+        "tsn",
+        "trt",
+        "rst",
+        "rta",
+        "rsn",
+        "rit"
+    ],
+    "trundle": [
+        "ude",
+        "tud",
+        "trl",
+        "tle",
+        "tru",
+        "udl",
+        "rdl",
+        "tul",
+        "tdl",
+        "tnl"
+    ],
+    "tryndamere": [
+        "ym"
+    ],
+    "twisted fate": [
+        "wd",
+        "wf",
+        "w ",
+        "df",
+        "tf",
+        "ws",
+        "we",
+        "ef"
+    ],
+    "twitch": [
+        "wh"
+    ],
+    "udyr": [
+        "uy",
+        "dy"
+    ],
+    "urgot": [
+        "rot",
+        "got",
+        "rgt",
+        "ugo",
+        "ugt",
+        "urt",
+        "uot",
+        "rgo",
+        "urg"
+    ],
+    "varus": [
+        "vu"
+    ],
+    "vayne": [
+        "vne",
+        "vye",
+        "vay",
+        "vae"
+    ],
+    "veigar": [
+        "vg"
+    ],
+    "vel'koz": [
+        "vz",
+        "'k",
+        "v'",
+        "oz",
+        "'o",
+        "l'"
+    ],
+    "vi": [],
+    "viktor": [
+        "vt"
+    ],
+    "vladimir": [
+        "vd",
+        "lm",
+        "vm"
+    ],
+    "volibear": [
+        "ib",
+        "ob",
+        "vb"
+    ],
+    "warwick": [
+        "rw",
+        "ww",
+        "wr"
+    ],
+    "wukong": [
+        "wu",
+        "uk",
+        "wg",
+        "wo"
+    ],
+    "xerath": [
+        "xt",
+        "xr",
+        "xe"
+    ],
+    "xin zhao": [
+        "zo",
+        "xi",
+        "nz",
+        "xn",
+        "xo",
+        "xz",
+        " z",
+        "x "
+    ],
+    "yasuo": [
+        "yu",
+        "ys"
+    ],
+    "yorick": [
+        "yk"
+    ],
+    "zac": [
+        "zac"
+    ],
+    "zed": [
+        "zd"
+    ],
+    "ziggs": [
+        "zg",
+        "zs"
+    ],
+    "zilean": [
+        "zil",
+        "zen",
+        "zie",
+        "zln",
+        "zla",
+        "zin",
+        "zle",
+        "zia"
+    ],
+    "zyra": [
+        "zy"
+    ]
+}

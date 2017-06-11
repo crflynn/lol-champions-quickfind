@@ -1,8 +1,8 @@
 {
     "aatrox": [
+        "ox",
         "rx",
-        "tx",
-        "ox"
+        "tx"
     ],
     "ahri": [
         "ahri"
@@ -12,27 +12,27 @@
         "akl"
     ],
     "alistar": [
-        "alsr",
-        "asar",
-        "alir",
-        "istr",
         "aiar",
-        "lstr",
         "aitr",
-        "star",
-        "ltar",
+        "alir",
+        "alsr",
         "altr",
-        "itar"
+        "asar",
+        "istr",
+        "itar",
+        "lstr",
+        "ltar",
+        "star"
     ],
     "amumu": [
-        "muu",
         "mum",
+        "muu",
         "umu"
     ],
     "anivia": [
-        "nva",
         "iva",
         "nii",
+        "nva",
         "nvi"
     ],
     "annie": [
@@ -42,11 +42,11 @@
         "ash"
     ],
     "aurelion sol": [
-        "oo",
         " l",
+        "o ",
+        "oo",
         "sl",
-        "u ",
-        "o "
+        "u "
     ],
     "azir": [
         "zir"
@@ -55,16 +55,16 @@
         "ard"
     ],
     "blitzcrank": [
-        "tz",
+        "bi",
+        "bk",
         "bt",
         "bz",
-        "bi",
-        "zk",
-        "bk"
+        "tz",
+        "zk"
     ],
     "brand": [
-        "rad",
-        "bnd"
+        "bnd",
+        "rad"
     ],
     "braum": [
         "bm",
@@ -74,29 +74,29 @@
         "cy"
     ],
     "camille": [
-        "cll",
         "aml",
-        "mil",
         "cle",
-        "cmi",
-        "mll",
-        "lle",
+        "cll",
         "cme",
-        "cml"
+        "cmi",
+        "cml",
+        "lle",
+        "mil",
+        "mll"
     ],
     "cassiopeia": [
-        "sp",
+        "cp",
         "ip",
-        "cp"
+        "sp"
     ],
     "cho'gath": [
-        "gh",
-        "cg",
         "'g",
         "'h",
-        "oh",
         "'t",
-        "c'"
+        "c'",
+        "cg",
+        "gh",
+        "oh"
     ],
     "corki": [
         "cki",
@@ -104,17 +104,17 @@
         "cor"
     ],
     "darius": [
-        "dus",
-        "dri",
         "dau",
-        "riu",
+        "diu",
+        "dri",
         "drs",
-        "diu"
+        "dus",
+        "riu"
     ],
     "diana": [
-        "dna",
         "daa",
-        "dia"
+        "dia",
+        "dna"
     ],
     "dr. mundo": [
         "."
@@ -133,122 +133,122 @@
         "ev"
     ],
     "ezreal": [
-        "eze",
-        "ral",
-        "zel",
-        "ezr",
-        "zal",
-        "eza",
-        "zrl",
-        "erl",
         "eal",
-        "ezl",
         "eea",
-        "zre"
+        "erl",
+        "eza",
+        "eze",
+        "ezl",
+        "ezr",
+        "ral",
+        "zal",
+        "zel",
+        "zre",
+        "zrl"
     ],
     "fiddlesticks": [
-        "fd",
+        "dc",
         "fc",
+        "fd",
         "fk",
         "fl",
-        "fs",
-        "dc"
+        "fs"
     ],
     "fiora": [
         "fia",
-        "foa",
         "fio",
-        "fra",
-        "fir"
+        "fir",
+        "foa",
+        "fra"
     ],
     "fizz": [
-        "zz",
-        "fz"
+        "fz",
+        "zz"
     ],
     "galio": [
         "gi"
     ],
     "gangplank": [
-        "np",
-        "pl",
-        "pk",
         "gk",
-        "gp"
+        "gp",
+        "np",
+        "pk",
+        "pl"
     ],
     "garen": [
-        "grn",
-        "gen"
+        "gen",
+        "grn"
     ],
     "gnar": [
         "gnr"
     ],
     "gragas": [
-        "rag",
-        "rgs",
-        "grg",
+        "aas",
         "ags",
-        "aas"
+        "grg",
+        "rag",
+        "rgs"
     ],
     "graves": [
         "gv"
     ],
     "hecarim": [
-        "hea",
         "car",
-        "eam",
-        "hrm",
         "cim",
-        "rim",
+        "crm",
+        "eam",
+        "eca",
+        "eci",
         "ecm",
-        "hci",
         "ecr",
         "erm",
-        "eca",
+        "ham",
         "hca",
-        "crm",
+        "hci",
         "hcm",
         "hcr",
-        "eci",
-        "ham"
+        "hea",
+        "hrm",
+        "rim"
     ],
     "heimerdinger": [
-        "hd",
-        "dg"
+        "dg",
+        "hd"
     ],
     "illaoi": [
-        "lao",
+        "iai",
         "ilo",
-        "llo",
-        "loi",
+        "lao",
         "lli",
-        "iai"
+        "llo",
+        "loi"
     ],
     "irelia": [
-        "rla",
+        "iel",
         "irl",
-        "iel"
+        "rla"
     ],
     "ivern": [
         "vrn"
     ],
     "janna": [
-        "jnn",
-        "jna"
+        "jna",
+        "jnn"
     ],
     "jarvan iv": [
-        "vv",
-        "j ",
-        "v ",
-        "jr",
         " v",
-        "jv"
+        "j ",
+        "jr",
+        "jv",
+        "v ",
+        "vv"
     ],
     "jax": [
         "jax"
     ],
     "jayce": [
-        "je",
         "jc",
+        "je",
         "jy"
     ],
     "jhin": [
@@ -258,136 +258,136 @@
         "nx"
     ],
     "kalista": [
-        "kls",
         "kit",
-        "kst",
         "kla",
-        "klt"
+        "kls",
+        "klt",
+        "kst"
     ],
     "karma": [
-        "rma",
         "ama",
         "kam",
-        "krm"
+        "krm",
+        "rma"
     ],
     "karthus": [
-        "ku",
-        "hu"
+        "hu",
+        "ku"
     ],
     "kassadin": [
-        "sdn",
-        "kss",
         "aad",
-        "kdn",
-        "ksn",
-        "sdi",
         "adn",
         "asd",
-        "kdi",
-        "ksd",
+        "asn",
         "kad",
-        "asn"
+        "kdi",
+        "kdn",
+        "ksd",
+        "ksn",
+        "kss",
+        "sdi",
+        "sdn"
     ],
     "katarina": [
-        "kti",
         "kna",
-        "kri"
+        "kri",
+        "kti"
     ],
     "kayle": [
         "ky",
         "yl"
     ],
     "kennen": [
-        "nnn",
+        "kee",
         "knn",
-        "kee"
+        "nnn"
     ],
     "kha'zix": [
         "'x",
         "a'",
-        "zx",
         "hx",
+        "hz",
         "kx",
-        "hz"
+        "zx"
     ],
     "kindred": [
-        "knd",
-        "red",
         "ded",
-        "ndd",
-        "krd",
-        "nrd",
-        "kde",
         "kdd",
+        "kde",
+        "kdr",
         "kid",
-        "kdr"
+        "knd",
+        "krd",
+        "ndd",
+        "nrd",
+        "red"
     ],
     "kled": [
-        "led",
-        "kld"
+        "kld",
+        "led"
     ],
     "kog'maw": [
-        "mw",
-        "g'",
-        "ow",
-        "gw",
-        "om",
-        "kw",
-        "gm",
         "'m",
-        "'w"
+        "'w",
+        "g'",
+        "gm",
+        "gw",
+        "kw",
+        "mw",
+        "om",
+        "ow"
     ],
     "leblanc": [
         "eb"
     ],
     "lee sin": [
-        "ees",
-        "l n",
-        "l i",
-        "esn",
-        "le ",
-        " sn",
-        "ee ",
-        "e n",
+        " in",
         " si",
-        " in"
+        " sn",
+        "e n",
+        "ee ",
+        "ees",
+        "esn",
+        "l i",
+        "l n",
+        "le "
     ],
     "leona": [
-        "leo",
         "eoa",
+        "leo",
         "loa"
     ],
     "lissandra": [
-        "iad",
-        "lnd",
-        "lsd",
         "ada",
-        "lid",
+        "iad",
         "lda",
-        "lnr"
+        "lid",
+        "lnd",
+        "lnr",
+        "lsd"
     ],
     "lucian": [
         "uc"
     ],
     "lulu": [
-        "luu",
         "llu",
-        "lul"
+        "lul",
+        "luu"
     ],
     "lux": [
-        "ux",
-        "lx"
+        "lx",
+        "ux"
     ],
     "malphite": [
-        "mp",
-        "lp"
+        "lp",
+        "mp"
     ],
     "malzahar": [
         "mz"
     ],
     "maokai": [
-        "mak",
         "aok",
+        "mak",
         "mao"
     ],
     "master yi": [
@@ -395,22 +395,22 @@
         "my"
     ],
     "miss fortune": [
-        "mf",
         " r",
         "fn",
-        "fu"
+        "fu",
+        "mf"
     ],
     "mordekaiser": [
         "od"
     ],
     "morgana": [
-        "mna",
-        "mga",
         "man",
-        "mog",
+        "mga",
         "mgn",
-        "org",
+        "mna",
+        "mog",
         "ogn",
+        "org",
         "rgn"
     ],
     "nami": [
@@ -418,164 +418,164 @@
     ],
     "nasus": [
         "nss",
-        "sus",
-        "nsu"
+        "nsu",
+        "sus"
     ],
     "nautilus": [
-        "nis",
         "alu",
-        "nut",
-        "uts",
-        "tlu",
-        "utu",
-        "ntl",
-        "niu",
-        "nlu",
-        "utl",
+        "aut",
+        "ilu",
         "lus",
         "nat",
-        "uus",
+        "nis",
+        "niu",
         "nls",
-        "aut",
-        "til",
-        "tiu",
+        "nlu",
+        "nti",
+        "ntl",
         "nts",
         "nui",
-        "nti",
-        "ilu",
-        "tls",
-        "uiu",
         "nul",
-        "uti"
+        "nut",
+        "til",
+        "tiu",
+        "tls",
+        "tlu",
+        "uiu",
+        "uti",
+        "utl",
+        "uts",
+        "utu",
+        "uus"
     ],
     "nidalee": [
+        "dal",
         "ial",
-        "nid",
-        "dal"
+        "nid"
     ],
     "nocturne": [
         "cu"
     ],
     "nunu": [
-        "unu",
-        "nnu"
+        "nnu",
+        "unu"
     ],
     "olaf": [
-        "of",
         "af",
-        "lf"
+        "lf",
+        "of"
     ],
     "orianna": [
-        "onn",
-        "oin"
+        "oin",
+        "onn"
     ],
     "pantheon": [
-        "tho",
+        "aho",
+        "ant",
+        "heo",
+        "hon",
+        "nhe",
+        "nhn",
+        "nth",
+        "pae",
+        "pah",
+        "pao",
+        "pat",
+        "pen",
         "peo",
         "phn",
-        "pao",
-        "ptn",
+        "pho",
+        "pne",
+        "pnh",
+        "pnn",
+        "pno",
         "pnt",
         "pon",
-        "aho",
-        "pnh",
-        "pne",
         "pth",
+        "ptn",
         "pto",
-        "heo",
-        "pat",
-        "nhn",
-        "pnn",
-        "hon",
-        "pah",
-        "pen",
-        "pno",
-        "pae",
-        "pho",
-        "ant",
-        "nhe",
-        "nth"
+        "tho"
     ],
     "poppy": [
-        "pp",
         "oy",
+        "pp",
         "py"
     ],
     "quinn": [
         "q"
     ],
     "rammus": [
-        "mms",
         "ams",
-        "rms",
+        "mms",
+        "mus",
         "rmm",
-        "mus"
+        "rms"
     ],
     "rek'sai": [
-        "r'",
-        "'s"
+        "'s",
+        "r'"
     ],
     "renekton": [
-        "rnt",
-        "nkn",
-        "ekn",
-        "nko",
-        "etn",
-        "enk",
-        "net",
-        "eet",
-        "rkt",
-        "eto",
-        "ret",
-        "rko",
-        "rkn",
-        "ent",
-        "nek",
         "eek",
-        "rto",
+        "eet",
+        "ekn",
         "ekt",
-        "nkt"
+        "enk",
+        "ent",
+        "etn",
+        "eto",
+        "nek",
+        "net",
+        "nkn",
+        "nko",
+        "nkt",
+        "ret",
+        "rkn",
+        "rko",
+        "rkt",
+        "rnt",
+        "rto"
     ],
     "rengar": [
         "reg"
     ],
     "riven": [
         "rien",
-        "rivn",
-        "rive"
+        "rive",
+        "rivn"
     ],
     "rumble": [
-        "ub",
         "mb",
-        "rb"
+        "rb",
+        "ub"
     ],
     "ryze": [
-        "yz",
-        "rz"
+        "rz",
+        "yz"
     ],
     "sejuani": [
-        "sj",
-        "ju",
+        "ej",
         "eu",
-        "ej"
+        "ju",
+        "sj"
     ],
     "shaco": [
-        "sco",
-        "hac",
-        "sac",
         "aco",
-        "sho",
-        "shc",
+        "hac",
+        "hco",
+        "sac",
         "sao",
-        "hco"
+        "sco",
+        "shc",
+        "sho"
     ],
     "shen": [
         "shen"
     ],
     "shyvana": [
-        "yv",
+        "hv",
         "hy",
-        "hv"
+        "yv"
     ],
     "singed": [
         "gd",
@@ -586,38 +586,38 @@
     ],
     "sivir": [
         "sir",
-        "svr",
         "siv",
-        "svi"
+        "svi",
+        "svr"
     ],
     "skarner": [
-        "ske",
-        "skr",
-        "srr",
-        "skn",
+        "arr",
         "krr",
-        "arr"
+        "ske",
+        "skn",
+        "skr",
+        "srr"
     ],
     "sona": [
         "sona"
     ],
     "soraka": [
-        "srk",
         "oak",
+        "sak",
         "sok",
-        "sak"
+        "srk"
     ],
     "swain": [
         "sw"
     ],
     "syndra": [
-        "syr",
-        "syd"
+        "syd",
+        "syr"
     ],
     "tahm kench": [
-        "h ",
-        " k",
         " c",
+        " k",
+        "h ",
         "hk",
         "kc",
         "mc"
@@ -639,97 +639,97 @@
         "tmo"
     ],
     "thresh": [
-        "hsh",
-        "hes",
-        "tes",
         "esh",
-        "reh",
+        "hes",
         "hrh",
-        "trh",
-        "thr",
         "hrs",
-        "tsh",
-        "rsh"
+        "hsh",
+        "reh",
+        "rsh",
+        "tes",
+        "thr",
+        "trh",
+        "tsh"
     ],
     "tristana": [
-        "ttn",
-        "tsn",
-        "trt",
+        "rit",
+        "rsn",
         "rst",
         "rta",
-        "rsn",
-        "rit"
+        "trt",
+        "tsn",
+        "ttn"
     ],
     "trundle": [
-        "ude",
-        "tud",
-        "trl",
-        "tle",
-        "tru",
-        "udl",
         "rdl",
-        "tul",
         "tdl",
-        "tnl"
+        "tle",
+        "tnl",
+        "trl",
+        "tru",
+        "tud",
+        "tul",
+        "ude",
+        "udl"
     ],
     "tryndamere": [
         "ym"
     ],
     "twisted fate": [
-        "wd",
-        "wf",
-        "w ",
         "df",
+        "ef",
         "tf",
-        "ws",
+        "w ",
+        "wd",
         "we",
-        "ef"
+        "wf",
+        "ws"
     ],
     "twitch": [
         "wh"
     ],
     "udyr": [
-        "uy",
-        "dy"
+        "dy",
+        "uy"
     ],
     "urgot": [
-        "rot",
         "got",
+        "rgo",
         "rgt",
+        "rot",
         "ugo",
         "ugt",
-        "urt",
         "uot",
-        "rgo",
-        "urg"
+        "urg",
+        "urt"
     ],
     "varus": [
         "vu"
     ],
     "vayne": [
-        "vne",
-        "vye",
+        "vae",
         "vay",
-        "vae"
+        "vne",
+        "vye"
     ],
     "veigar": [
         "vg"
     ],
     "vel'koz": [
-        "vz",
         "'k",
-        "v'",
-        "oz",
         "'o",
-        "l'"
+        "l'",
+        "oz",
+        "v'",
+        "vz"
     ],
     "vi": [],
     "viktor": [
         "vt"
     ],
     "vladimir": [
-        "vd",
         "lm",
+        "vd",
         "vm"
     ],
     "volibear": [
@@ -739,33 +739,33 @@
     ],
     "warwick": [
         "rw",
-        "ww",
-        "wr"
+        "wr",
+        "ww"
     ],
     "wukong": [
-        "wu",
         "uk",
         "wg",
-        "wo"
+        "wo",
+        "wu"
     ],
     "xerath": [
-        "xt",
+        "xe",
         "xr",
-        "xe"
+        "xt"
     ],
     "xin zhao": [
-        "zo",
-        "xi",
+        " z",
         "nz",
+        "x ",
+        "xi",
         "xn",
         "xo",
         "xz",
-        " z",
-        "x "
+        "zo"
     ],
     "yasuo": [
-        "yu",
-        "ys"
+        "ys",
+        "yu"
     ],
     "yorick": [
         "yk"
@@ -781,14 +781,14 @@
         "zs"
     ],
     "zilean": [
-        "zil",
         "zen",
+        "zia",
         "zie",
-        "zln",
-        "zla",
+        "zil",
         "zin",
+        "zla",
         "zle",
-        "zia"
+        "zln"
     ],
     "zyra": [
         "zy"

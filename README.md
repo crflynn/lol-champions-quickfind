@@ -19,12 +19,12 @@ results will give you _only_ that champion.
 Here is the entry for Blitzcrank in the json file:
 
     "blitzcrank": [
-        "bt",
-        "tz",
-        "zk",
-        "bz",
         "bi",
-        "bk"
+        "bk",
+        "bt",
+        "bz",
+        "tz",
+        "zk"
     ],
 
 In the champion search bar typing ``bt`` or ``tz`` or any of the other strings

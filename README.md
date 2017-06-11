@@ -33,5 +33,5 @@ here will result in _only_ Blitzcrank appearing in the results.
 As of writing this README, there are two champions who can be found using a
 single character: Dr. Mundo (with ``.``) and Quinn (with ``q``).
 
-Vi is the only champion who cannot be selected with a single character; all of
-her character sequences are shared with Viktor, for example.
+Vi is the only champion who cannot be uniquely selected with a single string;
+all of her string sequences are shared with Viktor, for example.

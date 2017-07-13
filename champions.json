@@ -294,8 +294,10 @@
         "kti"
     ],
     "kayle": [
-        "ky",
         "yl"
+    ],
+    "kayn": [
+        "kyn"
     ],
     "kennen": [
         "kee",
@@ -504,6 +506,12 @@
     "quinn": [
         "q"
     ],
+    "rakan": [
+        "akan",
+        "raan",
+        "rakn",
+        "rkan"
+    ],
     "rammus": [
         "ams",
         "mms",
@@ -530,7 +538,6 @@
         "nko",
         "nkt",
         "ret",
-        "rkn",
         "rko",
         "rkt",
         "rnt",
@@ -623,7 +630,20 @@
         "mc"
     ],
     "taliyah": [
-        "yh"
+        "aih",
+        "iah",
+        "iya",
+        "iyh",
+        "lih",
+        "liy",
+        "lya",
+        "lyh",
+        "tay",
+        "tiy",
+        "tla",
+        "tlh",
+        "tli",
+        "tyh"
     ],
     "talon": [
         "tao",
@@ -747,6 +767,9 @@
         "wg",
         "wo",
         "wu"
+    ],
+    "xayah": [
+        "xy"
     ],
     "xerath": [
         "xe",

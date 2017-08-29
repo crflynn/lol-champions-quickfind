@@ -30,8 +30,9 @@ Here is the entry for Blitzcrank in the json file:
 In the champion search bar typing ``bt`` or ``tz`` or any of the other strings
 here will result in _only_ Blitzcrank appearing in the results.
 
-As of writing this README, there are two champions who can be found using a
+There are two champions who can be found using a
 single character: Dr. Mundo (with ``.``) and Quinn (with ``q``).
 
-Vi is the only champion who cannot be uniquely selected with a single string;
-all of her string sequences are shared with Viktor, for example.
+Vi and Ornn are the only champions who cannot be uniquely selected with a
+single string; Vi is contained within the name Viktor, and Ornn is contained
+within the name Orianna.

@@ -172,7 +172,6 @@
         "gk",
         "gp",
         "np",
-        "pk",
         "pl"
     ],
     "garen": [
@@ -502,8 +501,13 @@
     ],
     "poppy": [
         "oy",
-        "pp",
-        "py"
+        "pp"
+    ],
+    "pyke": [
+        "pke",
+        "pye",
+        "pyk",
+        "yke"
     ],
     "quinn": [
         "q"
@@ -791,7 +795,20 @@
         "yu"
     ],
     "yorick": [
-        "yk"
+        "ock",
+        "oic",
+        "oik",
+        "orc",
+        "yck",
+        "yic",
+        "yik",
+        "yoc",
+        "yoi",
+        "yok",
+        "yor",
+        "yrc",
+        "yri",
+        "yrk"
     ],
     "zac": [
         "zac"
